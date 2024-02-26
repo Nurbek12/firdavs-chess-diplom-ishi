@@ -1,0 +1,6 @@
+node_modules
+.env
+Todo.todo
+views
+upload/*
+!upload/t.txt
